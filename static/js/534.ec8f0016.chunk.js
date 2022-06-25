@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[534],{32534:function(e,r,c){c.r(r);c(47313);var t=c(46417);r.default=function(){return(0,t.jsx)("div",{children:"Roles"})}}}]);
